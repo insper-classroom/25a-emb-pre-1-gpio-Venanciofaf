@@ -5,6 +5,7 @@
 const int LED_PIN_R = 5;
 const int LED_PIN_L = 28; 
 
+// Comentário 
 int main() {
   stdio_init_all();
 
